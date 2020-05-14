@@ -1,5 +1,5 @@
 {
-  "name": "@staizen/calculator",
+  "name": "@davidlam-staizen/calculator",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
